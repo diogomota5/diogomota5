@@ -1,22 +1,47 @@
-## Hi there 👋
-<!--Cabeçalhos-->
+## <center> Hello World 👋</center>
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+![programminghard](https://i.giphy.com/78XCFBGOlS6keY1Bil.webp)
+---
+## <center> Quem sou eu </center>
 
-*italico* ou _italico_
+😎 Olá, me chamo Diogo Mota
 
-**negrito** ou __negrito__
+🏠 Patos de Minas - Minas Gerais
 
-___negrito e italico___
+🎓 Formado em Administração de Empresas 
 
-- Lista 1
-- Lista 2
-  - Sublista
+🏫 Centro Universitário de Patos de Minas - Unipam
+
+💻 Full Stack Developer em desenvolvimento
+
+💬 Experiência com rotinas administrativas, atuei nos ramos de telecomunicações, agronegócio, transportes e engenharia civil.
+Acesse meu [LinkedIn](https://www.linkedin.com/in/diogomota05/) para conhecer minha trajetória profissional
+
+💬 Desenvolvedor Full stack em desenvolvimento, buscando oportunidades para transição de carreira e aplicação de conteúdo e conceitos adquiridos em cursos
+
+---
+
+## <center> Minhas Tecnologias </center>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="100px">
+
+---
+
+## <center> Meus certificados </center>
+|   Cursos   |   Certificados   |
+|------------|------------------|
+|Lógica de Programação                 |[Certificado](https://hermes.dio.me/certificates/91ZFKQPK.pdf)|
+|Programação orientada a objetos - Java|[Certificado](https://www.udemy.com/certificate/UC-6560ac9e-da0c-436e-81f0-2144409ad92c/)|
+
+---
+## <center> Github Stats </center>
+
+![GitHub Stats Diogo](https://github-readme-stats.vercel.app/api?username=diogomota5&show_icons=true&theme=radical)
 
 <!--
 **diogomota5/diogomota5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
