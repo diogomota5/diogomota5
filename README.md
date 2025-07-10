@@ -46,7 +46,7 @@ Acesse meu [LinkedIn](https://www.linkedin.com/in/diogomota05/) para conhecer mi
 
 ![GitHub stats Diogo](https://github-readme-stats.vercel.app/api?username=diogomota5&show_icons=true&theme=radical)
 
-![GitHub stats Diogo](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomota5&layout=compact&langs_count=7&theme=dracula)
+![GitHub stats Diogo](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomota5&layout=compact&langs_count=7&theme=radical)
 <!--
 **diogomota5/diogomota5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
