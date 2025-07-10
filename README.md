@@ -1,6 +1,7 @@
 ## <center> Hello World 👋</center>
 
 ![programminghard](https://i.giphy.com/78XCFBGOlS6keY1Bil.webp)
+
 ---
 ## <center> Quem sou eu </center>
 
@@ -34,6 +35,7 @@ Acesse meu [LinkedIn](https://www.linkedin.com/in/diogomota05/) para conhecer mi
 ---
 
 ## <center> Meus certificados </center>
+
 |   Cursos   |   Certificados   |
 |------------|------------------|
 |Lógica de Programação                 |[Certificado](https://hermes.dio.me/certificates/91ZFKQPK.pdf)|
@@ -42,8 +44,9 @@ Acesse meu [LinkedIn](https://www.linkedin.com/in/diogomota05/) para conhecer mi
 ---
 ## <center> Github Stats </center>
 
-![GitHub Stats Diogo](https://github-readme-stats.vercel.app/api?username=diogomota5&show_icons=true&theme=radical)
+![GitHub stats Diogo](https://github-readme-stats.vercel.app/api?username=diogomota5&show_icons=true&theme=radical)
 
+![GitHub stats Diogo](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomota5&layout=compact&langs_count=7&theme=dracula)
 <!--
 **diogomota5/diogomota5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
