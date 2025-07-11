@@ -38,8 +38,10 @@ Acesse meu [LinkedIn](https://www.linkedin.com/in/diogomota05/) para conhecer mi
 
 |   Cursos   |   Certificados   |
 |------------|------------------|
+|Github Certification                  |[Certificado](https://hermes.dio.me/certificates/KWBWLSFF.pdf)|
 |Lógica de Programação                 |[Certificado](https://hermes.dio.me/certificates/91ZFKQPK.pdf)|
 |Programação orientada a objetos - Java|[Certificado](https://www.udemy.com/certificate/UC-6560ac9e-da0c-436e-81f0-2144409ad92c/)|
+
 
 ---
 ## <center> Github Stats </center>
