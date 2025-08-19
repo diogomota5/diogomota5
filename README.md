@@ -1,4 +1,4 @@
-## <center> Hello World 👋</center>
+.## <center> Hello World 👋</center>
 
 ![programminghard](https://i.giphy.com/78XCFBGOlS6keY1Bil.webp)
 
@@ -39,6 +39,7 @@ Acesse meu [LinkedIn](https://www.linkedin.com/in/diogomota05/) para conhecer mi
 |   Cursos   |   Certificados   |
 |------------|------------------|
 |Github Certification                  |[Certificado](https://hermes.dio.me/certificates/KWBWLSFF.pdf)|
+|HTML Web Developer                    |[Certificado](https://hermes.dio.me/certificates/GDFMOOSD.pdf)|
 |Java Fundamentals                     |[Certificado](https://hermes.dio.me/certificates/BQS2EWQT.pdf)|
 |Lógica de Programação                 |[Certificado](https://hermes.dio.me/certificates/91ZFKQPK.pdf)|
 |Programação orientada a objetos - Java|[Certificado](https://www.udemy.com/certificate/UC-6560ac9e-da0c-436e-81f0-2144409ad92c/)|
