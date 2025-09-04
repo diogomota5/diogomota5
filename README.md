@@ -1,4 +1,4 @@
-.## <center> Hello World 👋</center>
+## <center> Hello World 👋</center>
 
 ![programminghard](https://i.giphy.com/78XCFBGOlS6keY1Bil.webp)
 
