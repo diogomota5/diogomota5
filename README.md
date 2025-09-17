@@ -40,6 +40,7 @@ Acesse meu [LinkedIn](https://www.linkedin.com/in/diogomota05/) para conhecer mi
 |------------|------------------|
 |Github Certification                  |[Certificado](https://hermes.dio.me/certificates/KWBWLSFF.pdf)|
 |HTML Web Developer                    |[Certificado](https://hermes.dio.me/certificates/GDFMOOSD.pdf)|
+|Java Developer                        |[Certificado](https://hermes.dio.me/certificates/ABLHGDNV.pdf)|
 |Java Fundamentals                     |[Certificado](https://hermes.dio.me/certificates/BQS2EWQT.pdf)|
 |Lógica de Programação                 |[Certificado](https://hermes.dio.me/certificates/91ZFKQPK.pdf)|
 |Programação orientada a objetos - Java|[Certificado](https://www.udemy.com/certificate/UC-6560ac9e-da0c-436e-81f0-2144409ad92c/)|
