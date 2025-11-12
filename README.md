@@ -45,6 +45,7 @@ Acesse meu [LinkedIn](https://www.linkedin.com/in/diogomota05/) para conhecer mi
 
 |   Cursos   |   Certificados   |
 |------------|------------------|
+|Formação Angular Developer            |[Certificado](https://hermes.dio.me/certificates/8HT69SI9.pdf)|
 |Github Certification                  |[Certificado](https://hermes.dio.me/certificates/KWBWLSFF.pdf)|
 |HTML Web Developer                    |[Certificado](https://hermes.dio.me/certificates/GDFMOOSD.pdf)|
 |Java Developer                        |[Certificado](https://hermes.dio.me/certificates/ABLHGDNV.pdf)|
