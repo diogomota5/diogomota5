@@ -9,9 +9,9 @@
 
 🏠 Patos de Minas - Minas Gerais
 
-🎓 Formado em Administração de Empresas 
+🎓 Formado em Administração de Empresas - 🏫 Centro Universitário de Patos de Minas - Unipam
 
-🏫 Centro Universitário de Patos de Minas - Unipam
+🎓 Cursando em Análise e Desenvolvimento de Software - 🏫 Universidade Católica de Brasília - UCB
 
 💻 Full Stack Developer em desenvolvimento
 
