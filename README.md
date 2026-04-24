@@ -15,10 +15,7 @@
 
 💻 Full Stack Developer em desenvolvimento
 
-💬 Experiência com rotinas administrativas, atuei nos ramos de telecomunicações, agronegócio, transportes e engenharia civil.
-Acesse meu [LinkedIn](https://www.linkedin.com/in/diogomota05/) para conhecer minha trajetória profissional
-
-💬 Desenvolvedor Full stack em desenvolvimento, buscando oportunidades para transição de carreira e aplicação de conteúdo e conceitos adquiridos em cursos
+💬 Profissional em transição estratégica para a área de tecnologia, cursando Análise e Desenvolvimento de Sistemas, com sólida experiência corporativa em operações, processos, análise de dados e sistemas empresariais. Conhecimentos em desenvolvimento com Java, Spring Boot, APIs REST, SQL, Angular, Git e GitHub. Perfil analítico, colaborativo e orientado à resolução de problemas. Busco oportunidade como Desenvolvedor Júnior para contribuir com resultados e evoluir tecnicamente em ambiente desafiador. Acesse meu [LinkedIn](https://www.linkedin.com/in/diogomota05/) para conhecer minha trajetória profissional
 
 ---
 
